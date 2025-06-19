@@ -40,7 +40,7 @@ pip install numpy pandas moviepy pillow folium matplotlib requests
 
 3. **Run the script:**
     ```bash
-    python "Videotimeline (1).py"
+    python "Videotimeline.py"
     ```
 
 4. **Output:**
